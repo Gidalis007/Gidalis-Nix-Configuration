@@ -1,0 +1,1 @@
+# Gidalis-Nix-Configuration
